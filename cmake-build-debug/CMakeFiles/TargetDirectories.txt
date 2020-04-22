@@ -1,0 +1,3 @@
+C:/Users/sofik/CLionProjects/VagnerFisher/cmake-build-debug/CMakeFiles/VagnerFisher.dir
+C:/Users/sofik/CLionProjects/VagnerFisher/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sofik/CLionProjects/VagnerFisher/cmake-build-debug/CMakeFiles/rebuild_cache.dir
